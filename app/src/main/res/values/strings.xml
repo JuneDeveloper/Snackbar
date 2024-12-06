@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SnackBar</string>
+    <string name="textInput">Поле ввода информации</string>
+    <string name="textOutput">Поле вывода информации</string>
+    <string name="SaveText">Сохранить данные</string>
+    <string name="DeleteText">Удалить данные</string>
+</resources>
